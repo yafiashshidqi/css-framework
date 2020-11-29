@@ -1,0 +1,42 @@
+html {
+    position: relative;
+}
+
+body {
+    margin-bottom: 100px;
+    margin-top: 20px;
+}
+
+.jumbotron img {
+    width: 200px;
+    height: 200px;
+    border: 5px solid gray;
+}
+
+.about hr {
+    width: 250px;
+    border-top: 4px solid gray;
+}
+
+.about {
+    min-height: 600px;
+}
+
+/* Mengetahui Kolom */
+/* .row div {
+    border: 5px dotted gainsboro;
+} */
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width:  100%;
+    height: 80px;
+    background-color: #333;
+}
+
+footer p {
+    color: #aaaaaa;
+    font-size: 0.9em;
+    padding-top: 30px;
+}
